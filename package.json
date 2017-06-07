@@ -1,11 +1,10 @@
 {
   "name": "linter-solium",
   "main": "./lib/main",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Lint Solidity on the fly, using Solium",
   "keywords": [],
-  "activationCommands": {
-  },
+  "activationCommands": {},
   "repository": "https://github.com/travs/linter-solium",
   "license": "MIT",
   "engines": {
