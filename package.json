@@ -3,7 +3,13 @@
   "main": "./lib/main",
   "version": "0.0.3",
   "description": "Lint Solidity on the fly, using Solium",
-  "keywords": [],
+  "keywords": [
+    "solidity",
+    "linter",
+    "ethereum",
+    "solium",
+    "smart-contracts"
+  ],
   "activationCommands": {},
   "repository": "https://github.com/travs/linter-solium",
   "license": "MIT",
